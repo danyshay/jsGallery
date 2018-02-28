@@ -1,0 +1,1 @@
+# TypeScript Implementation of Gallery Tutorial Done by Traversy Media

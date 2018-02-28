@@ -1,0 +1,22 @@
+div#jsg-image-list {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+
+div#jsg-image-list img {
+    width: 100%;
+}
+
+div#js-gallery {
+    text-align: center;
+    background: #333;
+}
+
+div#jsg-main-image-container img {
+    background: white;
+    padding: 12px;
+    margin: 12px;
+    /* width: 100%; */
+}
